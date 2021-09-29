@@ -13,5 +13,5 @@ This code is FREE so dont sell/buy it!!
 
 # Note :
 - Dont Forget to change your bot TOKEN
-<br>
+- 
 # Need Help? Contact me on discord Lamp#1442
